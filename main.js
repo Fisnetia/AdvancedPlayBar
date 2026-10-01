@@ -1533,6 +1533,6 @@
         get css() { return buildCss(); },
         get barCss() { return buildBarCss(); },
         get hoverCss() { return buildHoverCss(); },
-        version: '1.1.0'
+        version: '1.2.0'
     };
 })();
